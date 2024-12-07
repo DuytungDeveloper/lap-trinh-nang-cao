@@ -1,0 +1,5 @@
+**/node_modules
+*/bin
+*/.next
+*/.idea
+.env*
