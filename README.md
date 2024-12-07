@@ -58,3 +58,5 @@ Source này đã được tối giản nhất có thể chỉ cần bạn chạy
 
 
 Nếu muốn sử dụng các tính năng nâng cao thì chỉ cần sửa đổi file **_docker-compose.yaml_** ở phần **_GITHUB_CLIENT_ID_** và ***GITHUB_CLIENT_SECRET*** dùng để đăng nhập hoặc nếu bạn biết code thì vào source ở phần ***saoke03*** để bypass hoặc tắt chức năng đó đi.
+
+Thuyết trình : https://gamma.app/docs/Bao-cao-Bai-tap-lon-Lap-trinh-Nang-cao-App-Sao-Ke-3kav3y3b8rpagjp
